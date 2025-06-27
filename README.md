@@ -22,13 +22,14 @@
 ---
 
 ## 目錄結構說明
-
+```
 ├── 0\_iris.csv               # Iris 資料集 CSV 檔
 ├── 0\_tutorial.ipynb         # 初學者用的 Iris 教學 Notebook
 ├── 1\_0\_iris\_lgbm\_pipeline.py # 初步轉成 Kubeflow Pipeline 格式的程式碼
 ├── 1\_1\_iris\_lgbm\_pipeline.py # 可直接執行的 Pipeline 版本
 ├── 1\_2\_iris\_lgbm\_pipeline.py # 添加 MLflow 追蹤功能的 Pipeline
 └── 2\_編譯管道.ipynb          # Pipeline 編譯成 YAML 檔的 Notebook
+```
 
 ## 🤔 適合對象
 - 熟悉 Jupyter Notebook，但不熟 Kubeflow
